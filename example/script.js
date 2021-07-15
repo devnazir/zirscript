@@ -1,11 +1,8 @@
-/* eslint-disable no-undef */
 /* eslint-disable no-console */
+/* eslint-disable no-undef */
 
-// console.log($selectOne('h1')); // select one element. return element
-// console.log($selectAll('h1')); // select all element. return node list
-// console.log($selectSome(['h1', 'h2'])); // select some element. return node list
-let h1 = "h1"
+$selectAll('button').on("click", () => {
+  @box("hello sdsd  asdsad")
+});
 
-const tes = @selectOne h1
-
-console.log(tes);
+// @input("Hello")

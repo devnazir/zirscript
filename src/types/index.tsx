@@ -1,1 +1,0 @@
-export type TScript = NodeListOf<HTMLScriptElement>
